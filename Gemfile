@@ -20,7 +20,7 @@ gem 'pagy'
 gem 'propshaft'
 gem 'puma', '>= 5.0'
 gem 'rails-i18n'
-gem "ruby-vips", "~> 2.0"
+gem 'ruby-vips', '~> 2.0'
 gem 'solid_cable'
 gem 'solid_cache'
 gem 'solid_queue'
